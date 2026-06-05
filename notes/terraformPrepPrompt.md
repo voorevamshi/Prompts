@@ -48,18 +48,31 @@ Tasks:
     * Verify whether my understanding is correct.
     * Add missing technical details.
 
-   
+  
 Output Format:
 
-1. Corrected & Enhanced Notes
-2. Mistakes / Corrections Found
-3. Discussion Points / Clarifications Needed
-4. Terraform Associate Exam Focus Areas
-5. Interview Focus Areas
-6. Missing Concepts Worth Learning
-7. Real-World Examples
-8. Revision Summary
-9. Key Takeaways
- 
-    * Highlight best practices.
-    * Explain alternative approaches if available.
+1. 📘 Day X Class Title
+2. 📖 Detailed Class Title
+3. 🎯 Learning Objectives
+4. 📝 Session Summary (3-5 lines)
+5. ⭐ Key Exam Topics Covered
+6. 🎯 Key Interview Topics Covered
+7. Corrected & Enhanced Notes
+
+   * Well-structured and organized notes
+   * Important concepts explained clearly
+   * Examples included where necessary
+
+8. Mistakes / Corrections Found
+
+   * Incorrect statements
+   * Technical inaccuracies
+   * Better explanations
+
+9. Discussion Points / Clarifications Needed
+
+   * Doubts
+   * Common misconceptions
+   * Areas requiring deeper understanding
+10. Real-World Examples
+11. ## Terraform Associate Exam Focus Areas
